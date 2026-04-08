@@ -7,4 +7,4 @@ Do wykonanych zadań z lab 06 dodane zostały pociski, efekty eksplozji, dźwię
 Pobrać pliki i uruchomić skrypt main.py komendą `python main.py`
 
 ## Obserwacje
-Na **niektórych** klawiaturach trzymanie lewej strzałki + górnej strzałki + spacji nie rejestruje strzału, z wszystkimi innymi przyciskami działa. Jest to wina klawiatury.
+Na **niektórych** klawiaturach trzymanie lewej strzałki + górnej strzałki + spacji nie rejestruje strzału, z wszystkimi innymi przyciskami działa. Jest to wina klawiatury, nie kodu.
